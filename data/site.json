@@ -1,0 +1,60 @@
+{
+  "brand": {
+    "name": "Ahïa Solutions",
+    "logo": "img/ahiasolutionslogo1.jpg",
+    "footerTagline": "Dedicated to *you*."
+  },
+  "home": {
+    "title": "Marketplace Solutions",
+    "text": "This is the modern era. Social media and video marketing have all but taken over the digital landscape. Ahïa Solutions focuses on three things: Web Design, Data Analytics, and Task Automation.",
+    "video": "https://www.youtube-nocookie.com/embed/-LMbL9UeORo",
+    "primaryButton": "Contact Us",
+    "secondaryButton": "Learn more"
+  },
+  "mission": {
+    "hidden": false,
+    "title": "Our Mission",
+    "text": "We form mutually beneficial partnerships with small businesses, providing affordable, cost-effective solutions for web development, analytics, and task automation.",
+    "button": "Contact Us"
+  },
+  "servicesTitle": "Services",
+  "services": [
+    {
+      "id": "web-design",
+      "title": "Web Design",
+      "icon": "laptop",
+      "text": "A custom website that makes your business easy to find, easy to trust, and easy to contact.",
+      "hidden": false
+    },
+    {
+      "id": "data-analytics",
+      "title": "Data Analytics",
+      "icon": "chart",
+      "text": "Turn your sales and operations data into clear reports that show what's working and where to improve.",
+      "hidden": false
+    },
+    {
+      "id": "task-automation",
+      "title": "Task Automation",
+      "icon": "code",
+      "text": "Automate repetitive tasks like data entry, scheduling, and follow-ups so your team can focus on customers.",
+      "hidden": false
+    }
+  ],
+  "about": {
+    "title": "ahïa (ah-he-yuh)",
+    "definition": "Ahïa (def): Thriving Marketplace (Igbo).",
+    "story": "Ahïa first began as an idea in 2016: a directory of all of the Black-owned businesses in the Raleigh-Durham area. Two years later, [Kori Vernon](https://korivernon.com) was introduced to the business concentration of marketing and picked up a knack for videography. He combined that marketing experience with his passion for videography and problem solving, and launched Ahïa Solutions.",
+    "video": "https://www.youtube-nocookie.com/embed/RdEkF9As7F4",
+    "title2": "Providing Marketplace Solutions for the Modern Era",
+    "text2": "This is the modern era. Social media and video marketing have all but taken over the digital landscape. Ahïa Solutions focuses on three things: Web Design, Data Analytics, and Task Automation.\n\nAhïa Solutions provides business solutions for underrepresented and minority-owned businesses, forming mutually beneficial relationships that help them perform in an ever-changing digital landscape.\n\nOur mission is to form mutually beneficial partnerships with small businesses, providing affordable, cost-effective solutions for web development, analytics, and task automation.",
+    "image": "img/man.jpg"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "intro": "Tell us about your business and what you need. We'll get back to you soon.",
+    "formEmbed": "https://docs.google.com/forms/d/e/1FAIpQLScdnN4z7-eFXEYUYtrYNrUtwz1LG7ORzgG2aUd9nc9iF2wCSw/viewform?embedded=true",
+    "formHeight": 1150
+  },
+  "links": []
+}
